@@ -1,0 +1,14 @@
+.photo {
+    max-width: 120px; 
+    max-height: 120px;
+  }
+
+  .centered {
+    height: 85vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:5px;
+  }
+
+ 
